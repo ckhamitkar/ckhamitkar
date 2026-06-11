@@ -17,6 +17,7 @@
 
 ### 🛠️ What I build
 
+- **Agentic development harnesses** — opinionated agentic-SDLC systems with decision-filters, quality gates, and agent-memory + code-intelligence MCPs ([keel](https://github.com/ckhamitkar/keel))
 - **Agentic LLM systems** — multi-agent orchestration (LangGraph / StateGraph), tool calling, MCP servers
 - **Production RAG** — retrieval + grounding + citation; vector DBs (ChromaDB, pgvector), embeddings
 - **LLM evaluation** — groundedness / hallucination scoring, LLM-as-judge, quantitative model selection
