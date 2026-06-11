@@ -25,7 +25,7 @@
 
 `Python` · `LangGraph` · `FastAPI` · `Docker` · `GCP` · `AWS` · `ChromaDB / pgvector` · `Gemma / MedGemma`
 
-Certified: **Google Cloud Professional Cloud Architect** · **AWS Solutions Architect – Associate**
+Certified: **Google Cloud Professional Cloud Architect** · **AWS Solutions Architect – Associate** · **TOGAF Enterprise Architecture Practitioner**
 
 ### 📫 Connect
 
