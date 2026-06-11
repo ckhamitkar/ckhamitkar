@@ -1,6 +1,6 @@
 # Charudatta Khamitkar
 
-**AI Solutions Architect & Forward Deployed Engineer** — I take GenAI from problem to production: agentic LLM systems, production RAG, rigorous evaluation, and the live products built around them.
+**Enterprise AI Solutions Architect & Forward Deployed Engineer** — I take GenAI from problem to production: agentic LLM systems, production RAG, rigorous evaluation, and the live products built around them.
 
 ### 🚀 Live products — click and use them (no signup)
 
