@@ -1,6 +1,6 @@
 # Charudatta Khamitkar
 
-**Enterprise AI Solutions Architect & Lead Forward Deployed Engineer** — I take GenAI from problem to production: agentic LLM systems, production RAG, rigorous evaluation, and the live products built around them.
+**Enterprise Applied AI Solutions Architect & Lead Forward Deployed Engineer** — I take GenAI from problem to production: agentic LLM systems, production RAG, rigorous evaluation, and the live products built around them.
 
 ### 🚀 Live products — click and use them (no signup)
 
@@ -13,11 +13,13 @@
 
 ### ⚓ The method, made public — [`keel`](https://github.com/ckhamitkar/keel)
 
-**[keel](https://github.com/ckhamitkar/keel)** — *the installable substrate of an engineering organization.* An opinionated, agentic SDLC harness that installs the judgment, process, memory, and maps of an engineering org — so a new engineer operates at senior level within hours. I keep the **products** private and open the **method**.
+**[keel](https://github.com/ckhamitkar/keel)** — *the installable substrate of an engineering organization.* An opinionated, agentic SDLC harness that installs the judgment, process, memory, and **runnable verbs** of an engineering org — so a new engineer, or an agent, operates at senior level within hours.
+
+Its core is a **multi-agent product factory**: it scores an opportunity against the business model stored in the repo, turns it into a **PRD that becomes the spec**, and — only on a human's sign-off — runs the engineering layer **spec-driven** through design, build, quality gates, and a human staging gate. A person signs at both ends; the machine moves fast in between. I open the **method** and keep the **products** private.
 
 ### 🛠️ What I build
 
-- **Agentic development harnesses** — opinionated agentic-SDLC systems with decision-filters, quality gates, and agent-memory + code-intelligence MCPs ([keel](https://github.com/ckhamitkar/keel))
+- **Agentic development harnesses** — opinionated agentic-SDLC systems: decision-filters, quality gates, a runnable skills layer (one verb per phase), and a multi-agent **spec-driven product factory**; agent-memory + code-intelligence MCPs ([keel](https://github.com/ckhamitkar/keel))
 - **Agentic LLM systems** — multi-agent orchestration (LangGraph / StateGraph), tool calling, MCP servers
 - **Production RAG** — retrieval + grounding + citation; vector DBs (ChromaDB, pgvector), embeddings
 - **LLM evaluation** — groundedness / hallucination scoring, LLM-as-judge, quantitative model selection
