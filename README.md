@@ -17,6 +17,16 @@
 
 Its core is a **multi-agent product factory**: it scores an opportunity against the business model stored in the repo, turns it into a **PRD that becomes the spec**, and — only on a human's sign-off — runs the engineering layer **spec-driven** through design, build, quality gates, and a human staging gate. A person signs at both ends; the machine moves fast in between. I open the **method** and keep the **products** private.
 
+That product factory is open on its own, too — **[agentic-prd-factory](https://github.com/ckhamitkar/agentic-prd-factory)**: a 13-agent LangGraph pipeline that pressure-tests an opportunity across every product lens into a vetted PRD, behind a human sign-off gate. A sanitized release of the factory I run at Axion.
+
+### ⚖️ Governing the agents — [`agent-law`](https://github.com/ckhamitkar/agent-law) · [`agentic-iam`](https://github.com/ckhamitkar/agentic-iam)
+
+**[agent-law](https://github.com/ckhamitkar/agent-law)** — *the governance of synthetic actors: software that acts, and the liable principal every act must trace to.* It turns on one move — **govern the ephemeral through the persistent**: the agent is gone in seconds, its provenance isn't, so accountability lives at the lineage. No orphan agents; no actor audits its own work; auditing escalates by how much is at stake and terminates in a person. It ships with a runnable reference and an honest map of what's still unbuilt.
+
+**[agentic-iam](https://github.com/ckhamitkar/agentic-iam)** — the deterministic control plane underneath it: **authentication, authorization, and accounting for hierarchies of AI agents, with no LLM in the enforcement path.** Zero-dependency Python — ed25519 attestation + proof-of-possession, capability tokens with attenuating delegation, authority bound to provenance and budgets. A stolen token is useless; an agent reasoning on poisoned data still cannot exceed what it was delegated.
+
+Built to sit above the agentic-IAM layers the cloud providers are racing to ship — **neutral, so you govern agents the same way wherever they run.** MIT.
+
 ### 🛠️ What I build
 
 - **Agentic development harnesses** — opinionated agentic-SDLC systems: decision-filters, quality gates, a runnable skills layer (one verb per phase), and a multi-agent **spec-driven product factory**; agent-memory + code-intelligence MCPs ([keel](https://github.com/ckhamitkar/keel))
