@@ -1,6 +1,6 @@
 # Charudatta Khamitkar
 
-**Enterprise & AI Architect (TOGAF®) - I build the systems that build the systems.**
+**Enterprise & AI Architect (TOGAF®) - I design the factory that builds the products.**
 
 I design operating models for AI-native organizations, and I build the harnesses that enforce them: agents do the execution, humans set intent, spec, and governance. The products below are the output - the harnesses are the work.
 
